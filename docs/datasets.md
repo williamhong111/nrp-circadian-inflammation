@@ -76,10 +76,10 @@ for it: <https://musieklab.shinyapps.io/Glial_Circadian_Translatome/>
 
 | | |
 | --- | --- |
-| Samples | ? |
+| Samples | 165, confirmed |
 | Timepoints | reported as 12, confirm |
-| Time variable | ? |
-| Download | ? |
+| Time variable | in CT, graph shows 0-24 |
+| Download |  |
 | Checked by | |
 | Date checked | |
 | Notes | |
@@ -105,9 +105,9 @@ the most tractable route to a real finding.
 
 | | |
 | --- | --- |
-| Samples | ? |
-| Timepoints | ? |
-| Time variable | ? |
+| Samples | 123, confirmed |
+| Timepoints | measured after 3 and 6 hours, |
+| Time variable | ZT |
 | Download | ? |
 | Checked by | |
 | Date checked | |
