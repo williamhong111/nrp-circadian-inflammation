@@ -76,13 +76,13 @@ for it: <https://musieklab.shinyapps.io/Glial_Circadian_Translatome/>
 
 | | |
 | --- | --- |
-| Samples | ? |
-| Timepoints | reported as 12, confirm |
-| Time variable | ? |
-| Download | ? |
-| Checked by | |
-| Date checked | |
-| Notes | |
+| Samples | 165 (confirmed) |
+| Timepoints | reported as 12 (every 2 hours over 24 hours) |
+| Time variable | CT (collection time recorded in sample characteristics; circadian time shown across 0–24 hours) |
+| Download | Public RNA-seq count CSV files and raw FASTQ files available through GEO |
+| Checked by | Shivani Adarsh |
+| Date checked | November 24, 2026 |
+| Notes | Mouse glial circadian gene-expression dataset comparing wild-type and APP/PS1-21 mice. Includes astrocytes, microglia, and bulk cortex. Additional aging and single-nucleus datasets are also included|
 
 ---
 
@@ -105,13 +105,13 @@ the most tractable route to a real finding.
 
 | | |
 | --- | --- |
-| Samples | ? |
-| Timepoints | ? |
-| Time variable | ? |
-| Download | ? |
-| Checked by | |
-| Date checked | |
-| Notes | |
+| Samples | 123 (confirmed) |
+| Timepoints | Measured after 3 and 6 hours (Multiple: ZT0, ZT3, ZT6, ZT12, ZT18 at baseline, followed by sleep deprivation and recovery timepoints) |
+| Time variable | ZT |
+| Download | Processed RNA-seq: GSE140345_RNA_level_all_genes.txt.gz |
+| Checked by | Shivani Adarsh |
+| Date checked | November 24, 2026 |
+| Notes | Mouse cerebral cortex dataset examining circadian and sleep-wake contributions to gene expression and chromatin accessibility. Includes baseline, sleep-deprivation, and recovery samples. |
 
 ---
 
