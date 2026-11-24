@@ -44,9 +44,9 @@ question, but is not itself the disease question.
 | Timepoints | 24 per organ (confirmed) |
 | Time variable | yes, in sample titles (confirmed) |
 | Download | Series Matrix File — **not** the 1.2 GB `GSE54650_RAW.tar` |
-| Checked by | |
-| Date checked | |
-| Notes | |
+| Checked by | Shivani Adarsh |
+| Date checked | November 24, 2026 |
+| Notes | Healthy wild-type mice; 12 organs sampled every 2 hours over 48 hours. No disease or circadian disruption |
 
 ---
 
